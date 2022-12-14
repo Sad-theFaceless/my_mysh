@@ -1,0 +1,6 @@
+hide termcaps
+up/down arrows
+segfault warning
+command history
+./mysh < /dev/urandom
+valgrind ./mysh
